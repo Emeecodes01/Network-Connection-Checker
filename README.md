@@ -1,5 +1,5 @@
 ## Network-Connection-Checker
-This is a library that allows you monitor network/internet connection in your android app
+This is a library that allows you to monitor the network/internet connection in your android app
 
 <img src="ScreenData/internetChecker.gif"/>
 
